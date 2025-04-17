@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d55aede8.css",
-    "main.js": "/static/js/main.a0b69cf3.js",
-    "index.html": "/index.html",
-    "main.d55aede8.css.map": "/static/css/main.d55aede8.css.map",
-    "main.a0b69cf3.js.map": "/static/js/main.a0b69cf3.js.map"
+    "main.css": "/mchtbrt.github.io/static/css/main.d55aede8.css",
+    "main.js": "/mchtbrt.github.io/static/js/main.8608f1f5.js",
+    "index.html": "/mchtbrt.github.io/index.html",
+    "main.d55aede8.css.map": "/mchtbrt.github.io/static/css/main.d55aede8.css.map",
+    "main.8608f1f5.js.map": "/mchtbrt.github.io/static/js/main.8608f1f5.js.map"
   },
   "entrypoints": [
     "static/css/main.d55aede8.css",
-    "static/js/main.a0b69cf3.js"
+    "static/js/main.8608f1f5.js"
   ]
 }
